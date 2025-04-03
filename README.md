@@ -36,6 +36,7 @@ Este es un proyecto para desplegar instancias en **Amazon Web Services** mediant
 
    ```
    git clone https://github.com/a2158068171/terraform.git
+   cd terraform
    ```
 
 2. **Configurar AWS**:
