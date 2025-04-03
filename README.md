@@ -35,7 +35,7 @@ Este es un proyecto para desplegar instancias en **Amazon Web Services** mediant
 1. **Clonar el repositorio**:
 
    ```
-   git clone [https://github.com/v1ct0rjs/oci-autonomousdb.git](https://github.com/a2158068171/terraform.git)
+   git clone https://github.com/a2158068171/terraform.git
    ```
 
 2. **Configurar AWS**:
